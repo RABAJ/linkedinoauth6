@@ -56,7 +56,7 @@ sqlparse==0.2.4
 tox==2.9.1
 Twisted==17.9.0
 txaio==2.8.2
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 websocket-client==0.46.0
 websockets==3.2
