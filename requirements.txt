@@ -9,7 +9,7 @@ certifi==2018.1.18
 channels==2.0.0
 channels-redis==2.0.2
 chardet==3.0.4
-codecov==2.0.15
+codecov==2.0.16
 constantly==15.1.0
 coverage==4.3.3
 daphne==2.0.2
